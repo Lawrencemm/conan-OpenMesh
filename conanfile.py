@@ -4,7 +4,7 @@ import os.path
 
 class OpenmeshConan(ConanFile):
     name = "OpenMesh"
-    version = "7.1"
+    version = "8.0"
     license = "BSD-3-Clause"
     url = "https://github.com/yuweishan/conan-OpenMesh"
     description = "OpenMesh is a generic and efficient data structure for representing and manipulating polygonal meshes."
